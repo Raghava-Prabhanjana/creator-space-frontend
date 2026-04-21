@@ -1,4 +1,7 @@
-# Creator Space Frontend - React Routing 
+<<<<<<< HEAD
+
+# Creator Space Frontend - React Routing
+
 ## Problem Statement
 
 You are provided with a basic React app for a content creator dashboard. Currently, the app shows only the Dashboard page and does not support navigation between other views.
@@ -19,10 +22,8 @@ Your task is to implement **React Routing**, allowing navigation between Dashboa
 7. Create a `screenshots/` folder and include page views and deployment dashboard
 8. Add deployed URL to README
 
-
 ## Submission
 
 - ZIP the entire project folder
 - Include screenshots folder
 - Ensure README contains deployment URL
-
